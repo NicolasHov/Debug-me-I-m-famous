@@ -1,6 +1,6 @@
 # Debug me, I'm famous!
 
-This is an HTML / CSS / Bootstrap exercice made for the Montreuil - Promo 5.
+This is an HTML / CSS / Bootstrap exercice.
 
 Try to fix the `bad.xhtml` file, the solution is the `good.html` file.
 
